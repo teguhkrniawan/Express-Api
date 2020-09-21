@@ -1,0 +1,19 @@
+{
+  "name": "rest-express",
+  "version": "1.0.0",
+  "description": "Membuat rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teguhkrniawan/Express-Api.git"
+  },
+  "author": "Teguh Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teguhkrniawan/Express-Api/issues"
+  },
+  "homepage": "https://github.com/teguhkrniawan/Express-Api#readme"
+}
