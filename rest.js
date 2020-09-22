@@ -6,6 +6,7 @@ exports.ok = function(values, res){
         'values': values
     }
 
+     // JSON dimulai dalam array    
      res.json(data);
      res.end
 }
